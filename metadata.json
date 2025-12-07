@@ -1,0 +1,5 @@
+{
+  "name": "UniDoc Converter AI",
+  "description": "Chuyển đổi file Word font ABC (TCVN3) sang Unicode giữ nguyên định dạng, tích hợp tóm tắt nội dung bằng Gemini AI.",
+  "requestFramePermissions": []
+}
